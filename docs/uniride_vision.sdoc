@@ -1,25 +1,25 @@
 [DOCUMENT]
 TITLE: UniRide Vision - Lab 2 (Mustafa Ur Rahman, SU-24-01-002-088, Section 02)
 
-[SECTION]
+[[SECTION]]
 TITLE: 1. Problem statement
 
 [REQUIREMENT]
 UID: PS-001
 STATEMENT: Students, staff and parents depend on about 25 university buses on Peshawar routes every day. Seats are written in a paper register and fees are paid at a counter, so the transport office spends about three days each semester just registering seats. Passengers cannot tell where a bus is or whether it is full, so some buses run overcrowded while others run nearly empty. Fee records are hard to verify, which leads to repeated disputes between students and the accounts office. Parents cannot find out whether their child has boarded. The university has no reliable data on how many people use each route.
 
-[/SECTION]
+[[/SECTION]]
 
-[SECTION]
+[[SECTION]]
 TITLE: 2. Vision statement
 
 [REQUIREMENT]
 UID: VIS-001
 STATEMENT: For students, staff and parents who need dependable and predictable daily transport, UniRide is a campus transport management system that lets users book and cancel seats, check fee status and follow bus status in one place. Unlike paper registers and counter payments, UniRide gives the transport office live seat availability and demand data for every route.
 
-[/SECTION]
+[[/SECTION]]
 
-[SECTION]
+[[SECTION]]
 TITLE: 3. Objectives
 
 [REQUIREMENT]
@@ -34,12 +34,12 @@ STATEMENT: Fewer fee disputes. Measure: number of fee disputes handled by the ac
 UID: OBJ-003
 STATEMENT: Less overcrowding. Measure: share of trips with more passengers than seats. Target: under 3% of trips within two terms.
 
-[/SECTION]
+[[/SECTION]]
 
-[SECTION]
+[[SECTION]]
 TITLE: 4. Scope
 
-[SECTION]
+[[SECTION]]
 TITLE: 4.1 In scope
 
 [REQUIREMENT]
@@ -58,9 +58,9 @@ STATEMENT: Trip start and end reporting by drivers.
 UID: SCO-IN-004
 STATEMENT: Passenger list per bus for gate security.
 
-[/SECTION]
+[[/SECTION]]
 
-[SECTION]
+[[SECTION]]
 TITLE: 4.2 Out of scope
 
 [REQUIREMENT]
@@ -79,6 +79,6 @@ STATEMENT: Driver payroll.
 UID: SCO-OUT-004
 STATEMENT: Building a payment gateway.
 
-[/SECTION]
+[[/SECTION]]
 
-[/SECTION]
+[[/SECTION]]
