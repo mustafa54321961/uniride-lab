@@ -1,0 +1,8 @@
+[DOCUMENT]
+TITLE: Hello World SRS
+
+[REQUIREMENT]
+UID: REQ-001
+TITLE: Greeting
+STATEMENT: The system shall display "Hello, World" on startup.
+
