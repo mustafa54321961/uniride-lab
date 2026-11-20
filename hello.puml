@@ -1,0 +1,5 @@
+@startuml
+actor Student
+Student -> System : Login
+System --> Student : Welcome
+@enduml
